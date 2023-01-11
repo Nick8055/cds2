@@ -113,7 +113,7 @@ function App() {
         <div className='heroSection'>
           <div className='heroSlogan'>
           <div className='sloganSub1'>Welcome To </div>
-            <div>Complete Dental Solutions</div>
+            <div>Mandoli's Dental Clinic</div>
             <div className='sloganSub2'>We value our patients highly, so we always provide the best treatments and medications for your health </div>
             <button className='appointmentButton'>Request An Appointment</button>
           </div>
